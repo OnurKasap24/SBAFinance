@@ -1,3 +1,5 @@
+# Finance Application v1
+
 def income(amount):
     return amount
 
