@@ -6,3 +6,6 @@ def expense(amount):
 
 def balance(incomes, expenses):
     return sum(incomes) + sum(expenses)
+
+def savings(income_total, expense_total):
+    return income_total - abs(expense_total)
