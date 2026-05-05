@@ -1,7 +1,7 @@
 # Finance Application v1
 
 def income(amount):
-    return amount
+    return amount * 31 #False 
 
 def expense(amount):
     return -amount
